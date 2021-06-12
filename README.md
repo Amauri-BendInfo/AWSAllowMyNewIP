@@ -1,5 +1,5 @@
 # AWSAllowMyNewIP
-Windows batch command-line for IP update on your main security group.
+Windows batch command-line for IP update on your main AWS EC2 Security Group.
 
 ## Requirements
 - AWSCLI for Windows
