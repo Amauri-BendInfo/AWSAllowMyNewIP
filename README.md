@@ -24,3 +24,7 @@ You're ready to use.
    Revoke the authorization for the old-ip (all ports) and add new ingress rule for the new-ip (all ports).
   
 
+## Useful Links
+
+### AWSCLI command-line syntax for Security Group and Rules.
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html
