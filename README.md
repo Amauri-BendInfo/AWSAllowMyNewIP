@@ -31,4 +31,4 @@ You're ready to use.
 ### AWSCLI command-line syntax for Security Group and Rules.
    https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html
    https://docs.aws.amazon.com/cli/latest/reference/ec2/authorize-security-group-ingress.html
-
+   https://docs.aws.amazon.com/cli/latest/reference/ec2/update-security-group-rule-descriptions-ingress.html
