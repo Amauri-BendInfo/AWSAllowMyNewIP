@@ -7,12 +7,14 @@ Windows batch command-line for IP update on your main AWS EC2 Security Group.
 - curl for Windows
 - aws-update.bat (from this repository)
 
+
 ## Preparing
 Edit aws-update.bat and replace all sg-YourGroupId occurrencies with the id of your AWS EC2 Security Group.
 
 Add curl\bin folder to your Windows PATH.
 
 You're ready to use.
+
 
 ## aws-update usage
 
@@ -27,4 +29,6 @@ You're ready to use.
 ## Useful Links
 
 ### AWSCLI command-line syntax for Security Group and Rules.
-https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html
+   https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-sg.html
+   https://docs.aws.amazon.com/cli/latest/reference/ec2/authorize-security-group-ingress.html
+
