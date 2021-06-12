@@ -2,6 +2,7 @@
 Windows batch command-line for IP update on your main security group.
 
 ## Requirements
+- AWSCLI for Windows
 - Windows (any)
 - curl for Windows
 - aws-update.bat (from this repository)
