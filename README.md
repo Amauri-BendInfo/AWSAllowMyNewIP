@@ -33,5 +33,3 @@ You're ready to use.
    https://docs.aws.amazon.com/cli/latest/reference/ec2/authorize-security-group-ingress.html
    https://docs.aws.amazon.com/cli/latest/reference/ec2/update-security-group-rule-descriptions-ingress.html
 
-
-## Exemplo de alteração
